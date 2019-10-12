@@ -1,11 +1,13 @@
-import database from "./database";
+import database from "./database"
 switch (process.env.APP_DB_LIBRARY) {
   case 'mysql':
     database.mysql()
-    break;
+    break
+  case 'sequelize':
+    database.sequelize()
+    break
   default:
-    // statements_def
-    break;
+    break
 }
 export default {
   database
