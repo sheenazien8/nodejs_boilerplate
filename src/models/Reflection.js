@@ -26,7 +26,7 @@ class Reflection {
     return newReflection
   }
   /**
-   * 
+   *
    * @param {uuid} id
    * @returns {object} reflection object
    */
