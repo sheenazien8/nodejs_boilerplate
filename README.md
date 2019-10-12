@@ -7,7 +7,7 @@
 git clone https://github.com/sheenazien8/nodejs_boilerplate/
 
 # enter the project directory
-cd vue-element-admin
+cd nodejs_boilerplate
 
 # install dependency
 npm install
