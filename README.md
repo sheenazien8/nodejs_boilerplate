@@ -1,4 +1,4 @@
-# nodejs_boilerplate
+# Nodejs Boilerplate
 
 ## Getting started
 
