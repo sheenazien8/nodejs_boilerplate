@@ -1,8 +1,8 @@
 {
   "name": "personal-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learn ES6",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha tests/*.js --exit",
     "build": "babel ./src/app.js --out-dir build",
