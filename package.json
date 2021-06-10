@@ -1,7 +1,7 @@
 {
-  "name": "personal-blog",
+  "name": "nodejs_boilerplate",
   "version": "1.0.1",
-  "description": "Learn ES6",
+  "description": "Simple Expressjs Boilerplate",
   "main": "src/app.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha tests/*.js --exit",
