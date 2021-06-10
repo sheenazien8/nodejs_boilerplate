@@ -10,16 +10,18 @@ git clone https://github.com/sheenazien8/nodejs_boilerplate/
 cd nodejs_boilerplate
 
 # install dependency
-npm install
+yarn install
 
 # develop
-npm run dev
+yarn run dev
+
+# run test
+yarn run test
 ```
 
 ## Build
 
 ```bash
-
 # build for production environment
-npm run build
+yarn run build
 ```
